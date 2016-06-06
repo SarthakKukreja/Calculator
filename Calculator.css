@@ -1,0 +1,99 @@
+html {
+	background-color: #40e9ab;
+}
+.N_Button {
+	width:101px;
+	height:81px;
+	display: flex;
+	justify-content: center; 
+	align-items: center; 
+	background-color:#fdcd42 ;
+	margin: 20px;
+	font-size: 70px;
+	font-family: sans-serif;
+	color : #dd4b46;
+	border-radius: 15px;
+}
+
+.D_Button {
+	width:419px;
+	height:81px;
+	display: flex;
+	justify-content: center; 
+	align-items: center; 
+	background-color:#fdcd42 ;
+	margin: 20px;
+	font-size: 35px;
+	font-family: sans-serif;
+	color : #dd4b46;
+	border-radius: 5px;
+	
+}
+
+.O_Button {
+	width:131px;
+	height:81px;
+	display: flex;
+	justify-content: center; 
+	align-items: center; 
+	background-color:#fdc121 ;
+	margin: 20px;
+	font-size: 35px;
+	font-family: sans-serif;
+	color : black;
+	border-radius: 50px;
+}
+
+table {
+	margin-left: 320px;
+	background-color: #ea5e39;
+	border-radius: 20px;
+	cursor:default;
+}
+
+.highlighted {
+	background-color: black;
+	font-weight: bolder;
+}
+
+.C_Button {
+	width:141px;
+	height:81px;
+	display: flex;
+	justify-content: center; 
+	align-items: center; 
+	background-color:#fdcd42 ;
+	margin: 20px;
+	font-size: 42px;
+	font-family: 'Roboto Slab', serif;
+	color : #dd4b46;
+	border-radius: 25px;
+}
+
+.E_Button {
+	width:131px;
+	height:81px;
+	display: flex;
+	justify-content: center; 
+	align-items: center; 
+	background-color:#fdc121 ;
+	margin: 20px;
+	font-size: 41px;
+	font-family: sans-serif;
+	color : black;
+	border-radius: 50px;
+}
+
+.Highlighted {
+	width:101px;
+	height:81px;
+	display: flex;
+	justify-content: center; 
+	align-items: center; 
+	background-color:white ;
+	margin: 20px;
+	font-size: 70px;
+	font-family: sans-serif;
+	color : #dd4b46;
+	border-radius: 15px;
+}
